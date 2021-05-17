@@ -1,1 +1,3 @@
 # serial_log
+in developing...
+You are welcome to submit corrections to this project.
